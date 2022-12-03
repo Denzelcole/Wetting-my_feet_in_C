@@ -8,4 +8,6 @@
 int main(void)
 {
         printf("How many %s with learning C %0.2f\n", "times", 30.566); // carefull here just add space instead you will get error
+
+        return (0);
 }
